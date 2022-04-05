@@ -3,7 +3,7 @@
 
 
 - 🌱 Estudando Spring Framework
-- 😄 Pronomes: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/mauroPh">
