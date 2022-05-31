@@ -1,4 +1,5 @@
-### Olá!Sou o Mauro.Seja muito bem-vindo(a)! 👋
+### Hi! I'm Mauro. Welcome!! 👋 
+### Olá!Sou o Mauro.Seja muito bem-vindo(a)! 👋 
     
 
 
