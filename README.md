@@ -3,7 +3,7 @@
     
 
 
-- 🌱 Estudando Desenvolvimento Web(React , NodeJs).
+- 🌱 Estudando Desenvolvimento Web.
 
 <div align="center">
   <a href="https://github.com/mauroPh">
