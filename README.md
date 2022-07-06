@@ -3,7 +3,9 @@
     
 
 
-- 🌱 Estudando Desenvolvimento Web.
+- 🌱 Estudando ReactJS.
+- 🌱 Estudando C# ...
+
 
 <div align="center">
   <a href="https://github.com/mauroPh">
