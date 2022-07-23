@@ -3,8 +3,7 @@
     
 
 
-- 🌱 Estudando ReactJS.
-- 🌱 Estudando C# ...
+- 🌱 Estudando Desenvolvimento Web.
 
 
 <div align="center">
