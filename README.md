@@ -2,10 +2,6 @@
 ### Olá!Sou o Mauro.Seja muito bem-vindo(a)! 👋 
     
 
-
-- 🌱 Estudando Desenvolvimento Web.
-
-
 <div align="center">
   <a href="https://github.com/mauroPh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauroPh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
