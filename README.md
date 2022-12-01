@@ -4,7 +4,6 @@
 
 <div align="center">
   <a href="https://github.com/mauroPh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauroPh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroPh&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -25,6 +24,5 @@
 
    ![Snake animation](https://github.com/mauroPh/mauroPh/blob/output/github-contribution-grid-snake.svg)
  </div>
- <img height="540em"src="https://camo.githubusercontent.com/9773f5bb708c436f0c7b0eece52b8524e5a39736404005d01bbfb158c6ef1fa2/68747470733a2f2f692e696d6775722e636f6d2f5a6b5435734a6b2e676966"/>
-
+ 
 
