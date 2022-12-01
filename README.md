@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/mauroPh">
-  <img height="180em" align-itens = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroPh&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroPh&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mauro-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
