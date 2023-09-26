@@ -6,8 +6,8 @@
    <img align="center" alt="Mauro-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
    <img align="center" alt="Mauro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Mauro-Java" height="30" width="40" src="https://abhisheks008.github.io/CV/assets/images/skills/java.png">
-   <img align="center" alt="Mauro-Spring" height="30" width="40" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg">
-   <img align="center" alt="Mauro-React" height="30" width="40" src="https://www.pngwing.com/en/free-png-aglpc">
+   <img align="center" alt="Mauro-Spring" height="30" width="40" src="https://miro.medium.com/v2/resize:fill:160:160/1*P8CfLG3rsh4OTHXE8qaITg.png">
+   <img align="center" alt="Mauro-React" height="30" width="40" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png">
 
 
 </div>
