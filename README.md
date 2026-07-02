@@ -6,7 +6,6 @@
    <img align="center" alt="Mauro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Mauro-Java" height="30" width="40" src="https://abhisheks008.github.io/CV/assets/images/skills/java.png">
 
-
 </div>
   
   ##
